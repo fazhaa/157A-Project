@@ -17,7 +17,7 @@
 	<body>
 		<div class="centered">
 			<h1>Higher Education Degree Database</h1><br />
-			<B>Team Members:</B> Tim Bly, (insert your names) <br /><br />
+			<B>Team Members:</B> Tim Bly, David Burke, (insert your name here) <br /><br />
 		</div>
 		<hr>
 		<B>Relations:</B>
